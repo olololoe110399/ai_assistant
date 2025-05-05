@@ -2,6 +2,13 @@
 
 **Gemini Voice Chat AI Assistant** is a cross-platform, real-time voice interaction system powered by FastAPI (backend) and Flutter (frontend). It enables voice communication with AI models (like Gemini), including the ability to handle map drawing via function calls.
 
+## 🎥 Demo
+
+https://github.com/user-attachments/assets/07cd046c-1a19-401b-aa84-5ced50de298a
+
+[Link Youtube](https://youtube.com/shorts/zSvj73AFziU)
+
+
 ## Features
 
 ### 🔊 Voice AI Interaction
