@@ -53,5 +53,7 @@
 	<true/>
 		<key>NSMicrophoneUsageDescription</key>
 	<string>This example wants to access your microphone</string>
+		<key>NSCameraUsageDescription</key>
+	<string>This example wants to access your microphone</string>
 </dict>
 </plist>
