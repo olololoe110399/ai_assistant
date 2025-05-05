@@ -46,7 +46,7 @@ class AgoraManager {
     try {
       config = {
         "uid": 0,
-        "appId": "bb1c652d462b4da2b7f74108ed3d4a27",
+        "appId": "<---- Your App ID ---->",
         "channelName": "test",
         "rtcToken": "",
         "proxyUrl": "<---- Your Proxy Server URL ---->",
